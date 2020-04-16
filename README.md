@@ -1,5 +1,7 @@
 # mysql2php
 
+Tunneling traffic from open port on server side (echo.go) to client side (hosting without sql access)
+
 echo.go - server side. Open two ports - for mysql and for client echo.php
 
 
